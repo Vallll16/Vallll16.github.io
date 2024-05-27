@@ -1,0 +1,22 @@
+body{
+    background: url(../Imagenes/imagen2.jpeg); /* APLICO EL FONDO */
+    background-size: cover; /* MODIFICO EL TAMAÑO */
+    text-align: center;
+
+}
+
+h1,h2, h6{
+
+    color: white; /* COLOR DE LETRA */
+}
+
+H6{font-size: 15px;}
+
+img{
+    border-radius: 50px; /* BORDE REDONDO */
+}
+
+p{
+    color: white;
+    
+}
